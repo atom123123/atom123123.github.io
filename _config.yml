@@ -2,7 +2,7 @@ title: Atom123123.GitHub.io
 description: blog test
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
