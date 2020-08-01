@@ -30,7 +30,7 @@ twitter_username: wutong
 github_username:  times
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
